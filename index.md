@@ -6,3 +6,6 @@
 ``` javascript
 var myVar = "Hello, Class!";
 ```
+- [ ] Finish GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the Class
